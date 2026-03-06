@@ -1,5 +1,2 @@
-Team Name:ByteBots
-Project Repository for BMSCE Techie Super 100 Hackathon
-Team Members:
-- Priyanka
-- Gulshan
+# BMSCE-XCEL-TS100
+BMSCE XCEL COE Hackathon
